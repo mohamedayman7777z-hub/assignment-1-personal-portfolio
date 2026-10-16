@@ -1,0 +1,195 @@
+*{
+    box-sizing: border-box;
+}
+.text-ceantr{
+    text-align: center;
+}
+.w-100{
+    width: 100%;
+}
+.w-25{
+    width: 24%;
+}
+.w-80{
+    width: 80%;
+}
+.w-50{
+    width: 50%;
+}
+.w-20{
+    width: 17%;
+}
+.card-skills{
+    padding: 15px;
+    border: #e9f4ff solid 1px;
+    border-radius: 8px;
+    background-color:rgba(62, 62, 199, 0.01); 
+  
+}
+.color-w{
+    color: #e9f4ff;
+background-color: rgba(243, 235, 235, 0.1);
+}
+.color-ww{
+    color: white;
+}
+.color-b{
+    color: rgb(36, 36, 153);
+}
+.color-b-w{
+    color: rgb(93, 93, 226);
+}
+.p-8{
+    padding: 8px;
+}
+
+.border{
+    border-radius: 20px;
+    border: #e9f4ff solid 2px;
+    text-decoration: none;
+}
+.p-t-p{
+    padding: 40px 0;
+
+}
+.p-p{
+    padding-bottom: 15px;
+}
+.m-t{
+    margin-top: 40px;
+}
+.m{
+    margin: 4px;
+}
+
+
+.p-l{
+    padding-left: 20px;
+}
+.p-l-r{
+    
+    padding-right: 25px;
+}
+.clear{
+    clear: both;
+}
+span{
+    color: blue;
+}
+.line{
+     border-bottom: 1px solid rgb(109, 109, 234);
+}
+.float{
+    float: left;
+}
+
+body{
+    background-color: #e9f4ff;
+     
+
+   
+}
+.Experience-card{
+    background-color: rgb(102, 102, 102 ,0.1);
+}
+.header{
+    background-color: #1640a3;
+    color:white;
+    border: #1640a3 solid ;
+    border-radius: 19px;
+   
+    margin: auto;
+    margin-top: 20px;
+    
+    
+}
+.about{
+   
+    margin: auto;
+    background-color:white;
+    margin-top: 15px;
+
+   
+}
+.about .about-head{
+    padding-top: 15px;
+    padding: 0 30px;
+}
+.about img{
+    border-radius: 50%;
+    padding: 20px ;
+   
+}
+.about a{
+color: #e9f4ff;
+background-color:#1640a3 ;
+text-decoration: none;
+border-radius: 8px;
+
+}
+.skills{
+    margin: auto;
+     background-color:white;
+    margin-top: 15px;
+    padding-bottom: 20px;
+   
+}
+.skills .head-skills{
+     padding: 0 30px;
+      padding-top: 15px;
+      padding-bottom: 10px;
+    
+}
+.skills .skill-layout{
+    padding: 0 20px;
+    padding-top: 19px;
+    width: 95%;
+    margin: auto;
+
+}
+.Experience-Timeline{
+    margin: auto;
+     background-color:white;
+    margin-top: 15px;
+    padding-bottom: 20px;
+   
+}
+.Experience-Timeline .Experience-head{
+    padding: 0 30px;
+      padding-top: 15px;
+      padding-bottom: 10px;
+
+}
+.Experience-layout img{
+    padding: 10px;
+    border: 1px solid rgb(145, 145, 255);
+    border-radius: 10px;
+    background-color:white;
+    width: 10%;
+    margin-top: 13px;
+
+}
+.Experience-layout .Experience-layout-1{
+    background-color: rgb(190, 198, 240 , 0.1);
+    margin: auto;
+    width:90% ;
+    border-radius: 10px;
+    border-left: #1640a3 solid 4px;
+    margin-top: 15px;
+}
+.Contact-Me{
+    margin: auto;
+     background-color:#1640a3;
+    margin-top: 15px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+   
+}
+.last{
+    margin: auto;
+background-color:rgb(5, 5, 107);
+padding: 40px 0;
+margin-top: 10px;
+}
+
